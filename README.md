@@ -24,8 +24,10 @@ https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
 * All input som skickas i url eller i body ska valideras i en middleware och ifall det är fel data ska ett felmeddelande skickas tillbaka.
 * Det ska enbart gå att lägga till produkter som finns i menyn, ifall någon annan produkt skickas med så ska ett felmeddelande skickas tillbaka. Även pris ska kontrolleras, allt detta ska göras i en middleware.
 * När ett konto skapas ska detta kopplas till ett slumpat användarid (här används fördelaktigt ett bibliotek) där användarid:et sedan kan användas för att hämta orderhistorik, användarnamn ska alltså ej skickas med i url för att hämta orderhistorik.
-
-**För Väl Godkänt:**
+* Att alla gruppmedlemmar deltar eller meddelar frånvaro till gruppen senast 12 timmar innan möten, detta gäller för alla grupplanerade möte.
+* Alla gruppmedlemmar deltar i redovisnings momentet (alla ska prata ungefär lika mycket).
+  
+**Extra uppgifter som ger Guldstjärnor (Men inget högre betyg eftersom det inte går att få VG):**
 * Allt i godkänt
 * Kunna se pågående beställningar och tidigare beställningar (man kollar när beställningen lades (klockslag) gentemot vad klockan är nu. Här är det godkänt att använda något bibliotek för datum och tidshantering (ex. `moment.js` eller `date-fns`).
 * Ert projekt använder sig av en MVC-arkitektur.
@@ -35,7 +37,7 @@ https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
 Handledning för måndagens och onsdagens lektion bokas här: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
 
 ### Redovisning
-Sker mellan 9-12 22/4 på teams. Time-slots bokas av grupperna här: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
+Sker mellan 9-12 22/4 på teams. Time-slots (MAX 20 min redovisning) bokas av grupperna här: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
 
 Obs, man skall minst se förgående grupps redovisning (Är man första grupp så stannar man kvar å ser kommande.).
 
