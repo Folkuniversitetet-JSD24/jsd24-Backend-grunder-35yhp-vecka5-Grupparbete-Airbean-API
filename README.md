@@ -15,6 +15,8 @@ En gruppmedlem gör ett repo och bjuder in resterande gruppmedlemmar till det re
 
 https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
 
+### Figmaskiss
+* https://www.figma.com/file/ONcO3UQRPBLQsZc3FkysMt/AirBean-v.1.1---with-profile?node-id=0%3A1&t=aOiJ6vMVkTI7Xxth-0
 
 ### Betygskriterier
 
