@@ -13,6 +13,7 @@ En gruppmedlem gör ett repo och bjuder in resterande gruppmedlemmar till det re
 
 **Obs!** En user story kan också enbart vara en FE-story alltså att det inte behövs göras något i backend.
 
+Se detta som tips/hjälp, inga krav alls hittar ni här:
 https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
 
 ### Figmaskiss
