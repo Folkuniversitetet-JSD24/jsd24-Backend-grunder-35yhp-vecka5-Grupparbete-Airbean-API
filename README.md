@@ -37,9 +37,7 @@ https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
 Handledning för måndagens och onsdagens lektion bokas här: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
 
 ### Redovisning
-Sker mellan 9-12 22/4 på teams. Time-slots (MAX 20 min redovisning) bokas av grupperna här: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
+Sker genom inspelad redovisning och lämnas in senast 22/4 kl 12 till läraren. MAX 20 min redovisning.
 
-Obs, man skall minst se förgående grupps redovisning (Är man första grupp så stannar man kvar å ser kommande.).
-
-### Inlämning
+### Inlämning av kod
 Inlämning sker på Azomo med en länk till ert Github repo senast **22/4 22:59**.
